@@ -1,0 +1,7 @@
+﻿numpy 
+opencv-python-headless
+streamlit==0.80.0
+streamlit-drawable-canvas==0.6.0
+tensorflow
+pandas
+click<=0.80
